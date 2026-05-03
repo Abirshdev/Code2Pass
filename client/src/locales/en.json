@@ -1,0 +1,117 @@
+{
+  "app": {
+    "title": "BDU ExitPrep",
+    "tagline": "Independent exit exam prep for computing students — not affiliated with any university.",
+    "disclaimer": "This platform is inspired by common computing curricula and is not affiliated with Bahir Dar University."
+  },
+  "nav": {
+    "home": "Home",
+    "departments": "Departments",
+    "dashboard": "Dashboard",
+    "certificates": "Certificates",
+    "admin": "Admin",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "verify": "Verify certificate"
+  },
+  "home": {
+    "heroTitle": "Learn. Practice. Certify.",
+    "heroSub": "Structured paths, quizzes, mock exit exams, and verifiable certificates.",
+    "ctaBrowse": "Browse departments",
+    "ctaDashboard": "Go to dashboard",
+    "features": "What you can do",
+    "f1": "Year-based courses across six computing tracks",
+    "f2": "Randomized quizzes with explanations",
+    "f3": "Full department mock exit exams",
+    "f4": "PDF certificates with public verification"
+  },
+  "departments": {
+    "title": "Departments",
+    "subtitle": "Choose your track to see years and courses.",
+    "open": "View courses",
+    "exitExam": "Mock exit exam"
+  },
+  "courses": {
+    "title": "Courses",
+    "year": "Year",
+    "allYears": "All years",
+    "lessons": "Lessons",
+    "quiz": "Take quiz",
+    "progress": "Your progress",
+    "markComplete": "Mark lesson complete",
+    "completed": "Completed",
+    "noCourses": "No courses yet."
+  },
+  "lesson": {
+    "back": "Back to course",
+    "video": "Video",
+    "notes": "Notes",
+    "code": "Code examples"
+  },
+  "quiz": {
+    "title": "Quiz",
+    "submit": "Submit answers",
+    "question": "Question",
+    "of": "of",
+    "result": "Results",
+    "score": "Score",
+    "correct": "Correct",
+    "explain": "Explanation",
+    "yourAnswer": "Your answer",
+    "rightAnswer": "Correct answer"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome",
+    "recent": "Recent quiz results",
+    "noResults": "No results yet. Take a quiz from a course page."
+  },
+  "certs": {
+    "title": "My certificates",
+    "download": "Download PDF",
+    "id": "Certificate ID",
+    "none": "No certificates yet. Complete a course or score ≥ 70% on a quiz or exit exam."
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "name": "Full name",
+    "loginTitle": "Sign in",
+    "registerTitle": "Create account"
+  },
+  "admin": {
+    "title": "Admin",
+    "departments": "Departments",
+    "courses": "Courses",
+    "lessons": "Lessons",
+    "questions": "Questions",
+    "users": "Users",
+    "save": "Save",
+    "update": "Update",
+    "delete": "Delete",
+    "add": "Add",
+    "edit": "Edit",
+    "cancelEdit": "Cancel edit",
+    "selectDept": "Department",
+    "selectCourse": "Course"
+  },
+  "verify": {
+    "title": "Certificate verification",
+    "valid": "Valid",
+    "invalid": "Invalid",
+    "student": "Student",
+    "course": "Course",
+    "dept": "Department",
+    "score": "Score",
+    "date": "Issue date"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "lang": {
+    "en": "English",
+    "am": "አማርኛ"
+  }
+}
